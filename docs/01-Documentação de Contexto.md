@@ -1,46 +1,60 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto Fifash é uma loja virtual que visa democratizar o acesso à moda fashion para o público jovem. Nos últimos anos, o mercado de moda tem passado por grandes transformações, com o crescimento do e-commerce e o surgimento de novas tendências e tecnologias. No entanto, muitas lojas ainda enfrentam problemas para se destacar em meio à concorrência acirrada.
+
+Diante desse cenário, a Fifash surge como uma alternativa inovadora, que busca oferecer uma experiência de compra única e interativa para seus clientes. A loja aposta na proximidade com seu público-alvo, oferecendo produtos de qualidade a preços acessíveis e acompanhando de perto as tendências da moda.
+
+Um dos principais objetivos da Fifash é tornar-se uma referência no mercado de moda, atraindo clientes de todo o país e expandindo sua atuação para outras regiões. Para isso, a loja investe em estratégias de marketing digital, como o uso das redes sociais e o SEO (Search Engine Optimization), para aumentar a visibilidade de sua marca na internet.
+
+Além disso, a Fifash busca criar um ambiente virtual que estimule a interação dos usuários, oferecendo conteúdos exclusivos e promoções especiais para aqueles que se cadastrarem em seu site. Com uma equipe altamente qualificada e apaixonada por moda, a loja está sempre atenta às demandas e necessidades de seus clientes, buscando oferecer um atendimento personalizado e de excelência.
+
+O público-alvo da Fifash são jovens entre 18 e 35 anos, que buscam se vestir bem e acompanhar as tendências da moda sem gastar muito. A loja oferece uma ampla variedade de produtos, que vão desde roupas e acessórios até calçados e perfumes, tudo com preços competitivos e entregas rápidas em todo o país.
+
+Em resumo, o projeto Fifash surge como uma alternativa inovadora no mercado de moda, oferecendo aos seus clientes uma experiência de compra única e interativa. Com uma equipe qualificada e apaixonada por moda, a loja busca se tornar uma referência no setor, atraindo clientes de todo o país e expandindo sua atuação para outras regiões.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O mercado de moda é altamente competitivo, e muitas lojas enfrentam problemas para se destacar em meio à concorrência acirrada. Além disso, muitas vezes os preços praticados por essas lojas são elevados, o que dificulta o acesso de grande parte da população a produtos de qualidade.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A Fifash surge como uma solução para esses problemas, oferecendo produtos de qualidade a preços acessíveis e criando uma experiência de compra interativa e personalizada para seus clientes. A loja busca se diferenciar das demais através de estratégias de marketing digital, como o uso das redes sociais e o SEO (Search Engine Optimization), para aumentar a visibilidade de sua marca na internet.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Outro problema que o projeto Fifash tenta solucionar é a falta de proximidade entre as lojas de moda e seu público-alvo. Muitas vezes, as lojas não conseguem compreender as necessidades e demandas de seus clientes, o que pode resultar em produtos pouco atrativos e preços elevados.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Ao criar um ambiente virtual que estimula a interação dos usuários, a Fifash busca se aproximar de seu público-alvo e oferecer produtos e serviços que atendam às suas necessidades. Além disso, a loja está sempre atenta às tendências da moda, oferecendo produtos atualizados e de qualidade a seus clientes.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos da Fifash são:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Democratizar o acesso à moda fashion para o público jovem, oferecendo produtos de qualidade a preços acessíveis;
+
+Tornar-se uma referência no mercado de moda, atraindo clientes de todo o país e expandindo sua atuação para outras regiões;
+
+Criar um ambiente virtual que estimule a interação dos usuários, oferecendo conteúdos exclusivos e promoções especiais para aqueles que se cadastrarem em seu site;
+
+Oferecer um atendimento personalizado e de excelência aos clientes, buscando atender às suas necessidades e demandas;
+
+Investir em estratégias de marketing digital, como o uso das redes sociais e o SEO (Search Engine Optimization), para aumentar a visibilidade de sua marca na internet;
+
+Acompanhar de perto as tendências da moda, oferecendo produtos atualizados e de qualidade aos clientes;
+
+Expandir sua linha de produtos, incluindo novas categorias como cosméticos e produtos de beleza, de forma a atender a uma demanda crescente do mercado.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A criação da Fifash é justificada pela necessidade de oferecer ao mercado de moda uma alternativa diferenciada, que alie qualidade, preços acessíveis e atendimento personalizado aos clientes. A loja surge como uma resposta à demanda crescente de um público jovem que busca produtos de moda atualizados e de qualidade, mas que muitas vezes não consegue acesso a esses produtos devido aos preços elevados praticados por outras lojas.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Além disso, a Fifash busca solucionar outro problema do mercado de moda: a falta de proximidade entre as lojas e seus clientes. Ao criar um ambiente virtual interativo e personalizado, a loja busca estreitar o relacionamento com seus clientes e entender melhor suas necessidades e demandas. Com isso, a Fifash espera oferecer uma experiência de compra única e satisfatória aos seus clientes, fidelizando-os e conquistando um lugar de destaque no mercado.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A importância da Fifash também reside no fato de que a loja busca expandir sua atuação para outras regiões do país, levando seus produtos e serviços a um número cada vez maior de pessoas. Além disso, a loja está sempre atenta às tendências da moda, oferecendo produtos atualizados e de qualidade a seus clientes, o que contribui para o fortalecimento da indústria da moda como um todo.
+
+Por todas essas razões, a Fifash é uma iniciativa importante e motivadora, que tem o potencial de transformar o mercado de moda e oferecer uma alternativa diferenciada e acessível aos consumidores.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo da Fifash é composto por jovens adultos, na faixa etária de 18 a 35 anos, que buscam se vestir de maneira fashion e atualizada, mas que nem sempre conseguem acesso a esses produtos devido aos preços elevados praticados por outras lojas.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Esses consumidores são exigentes e buscam produtos de qualidade, mas também valorizam o atendimento personalizado e a proximidade com as marcas. Eles são ativos nas redes sociais e buscam se informar sobre as tendências da moda, buscando sempre inovar em seus looks e expressar sua personalidade através da roupa que vestem.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Além disso, o público-alvo da Fifash valoriza a comodidade e a praticidade das compras online, mas também espera encontrar uma experiência de compra diferenciada e interativa, que ofereça conteúdo exclusivo e promoções especiais para aqueles que se cadastrarem em seu site.
+
+Por fim, a Fifash busca atender a um público cada vez mais consciente e preocupado com questões sociais e ambientais, oferecendo produtos de qualidade que sejam produzidos de forma ética e sustentável. Com isso, a loja espera conquistar a confiança e a fidelidade de seus clientes, construindo uma relação duradoura e baseada na transparência e na responsabilidade social.
