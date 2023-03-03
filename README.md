@@ -1,27 +1,28 @@
-# TÍTULO DO PROJETO
+# FIFASH
 
-`CURSO`
+`Sistemas Para Internet`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento Web Back-End`
 
-`SEMESTRE`
+`Eixo 3`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Fifash é uma loja virtual voltada para o público jovem, que tem como objetivo democratizar o acesso à moda fashion para o grande público do mercado. Em um cenário cada vez mais competitivo, onde grandes lojas já possuem um e-commerce consolidado, a Fifash aposta na interação com seus usuários como um diferencial. Através de um site moderno e intuitivo, a loja busca proporcionar uma experiência de compra única, tornando-se uma opção atrativa para aqueles que buscam se vestir bem e acompanhar as últimas tendências da moda.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Marcielen Barbosa
+* Vinicius Rangel
+* Felipe Augusto
+* Matheus Moreira
+* Pedro Henrique Chiarelli
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo Dos Santos Machado
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. O sistema se dará através de uma aplicação web, sendo necessário apenas um browser e conexão à internet para ser acessado.
 
 # Documentação
 
