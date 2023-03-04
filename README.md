@@ -15,6 +15,7 @@ Fifash é uma loja virtual voltada para o público jovem, que tem como objetivo 
 * Felipe Augusto
 * Matheus Moreira
 * Pedro Henrique Chiarelli
+* Igor Lloyd
 
 ## Orientador
 
