@@ -8,7 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
  -->
 
-<img src="../docs/img/Landing%20page%20Fashion%20Ecommerce%20(Community).png" width= "300px">
+<img src="../docs/img/Landing%20page%20Fashion%20Ecommerce%20(Community).png" width= "auto">
 
 ## Diagrama de Fluxo
 
