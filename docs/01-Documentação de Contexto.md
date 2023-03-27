@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 
 O projeto Fifash é uma loja virtual que visa democratizar o acesso à moda fashion para o público jovem. Nos últimos anos, o mercado de moda tem passado por grandes transformações, com o crescimento do e-commerce e o surgimento de novas tendências e tecnologias. No entanto, muitas lojas ainda enfrentam problemas para se destacar em meio à concorrência acirrada.
 
@@ -13,6 +13,7 @@ O público-alvo da Fifash são jovens entre 18 e 35 anos, que buscam se vestir b
 Em resumo, o projeto Fifash surge como uma alternativa inovadora no mercado de moda, oferecendo aos seus clientes uma experiência de compra única e interativa. Com uma equipe qualificada e apaixonada por moda, a loja busca se tornar uma referência no setor, atraindo clientes de todo o país e expandindo sua atuação para outras regiões.
 
 ## Problema
+
 O mercado de moda é altamente competitivo, e muitas lojas enfrentam problemas para se destacar em meio à concorrência acirrada. Além disso, muitas vezes os preços praticados por essas lojas são elevados, o que dificulta o acesso de grande parte da população a produtos de qualidade.
 
 A Fifash surge como uma solução para esses problemas, oferecendo produtos de qualidade a preços acessíveis e criando uma experiência de compra interativa e personalizada para seus clientes. A loja busca se diferenciar das demais através de estratégias de marketing digital, como o uso das redes sociais e o SEO (Search Engine Optimization), para aumentar a visibilidade de sua marca na internet.
