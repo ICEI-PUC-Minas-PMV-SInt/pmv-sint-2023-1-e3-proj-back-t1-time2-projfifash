@@ -5829,11 +5829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\back-end-crud\\back-end-crud\\back-end-crud.csproj",
+      "projectUniqueName": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\src\\marcielen-crud\\back-end-crud\\back-end-crud.csproj",
       "projectName": "back-end-crud",
-      "projectPath": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\back-end-crud\\back-end-crud\\back-end-crud.csproj",
+      "projectPath": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\src\\marcielen-crud\\back-end-crud\\back-end-crud.csproj",
       "packagesPath": "C:\\Users\\Marcielen Barbosa\\.nuget\\packages\\",
-      "outputPath": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\back-end-crud\\back-end-crud\\obj\\",
+      "outputPath": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\src\\marcielen-crud\\back-end-crud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
