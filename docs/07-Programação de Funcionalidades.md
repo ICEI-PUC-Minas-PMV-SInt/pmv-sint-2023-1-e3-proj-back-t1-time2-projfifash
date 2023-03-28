@@ -15,4 +15,5 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
 Inicialização do projeto Back-end feito por Marcielen Barbosa:
+tela de Cadastro de cliente
 ![image](https://user-images.githubusercontent.com/80776887/228098383-ac574269-1730-49da-bbbf-a2269ca03a85.png)
