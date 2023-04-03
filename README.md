@@ -42,6 +42,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 <li><a href="docs/14-Planejar testes de usabilidade de software na aplicação.md"> Planejar testes de usabilidade de software na aplicação</a></li>
+<li><a href="docs/15-Identificar os perfis de usuários, investigar suas necessidades e elaborar personas.md">Identificar os perfis de usuários, investigar suas necessidades e elaborar personas</a></li>
 </ol>
 
 # Código
