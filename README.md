@@ -10,16 +10,16 @@ Fifash é uma loja virtual voltada para o público jovem, que tem como objetivo 
 
 ## Integrantes
 
-* Marcielen Barbosa
-* Vinicius Rangel
-* Felipe Augusto
-* Matheus Moreira
-* Pedro Henrique Chiarelli
-* Igor Lloyd
+- Marcielen Barbosa
+- Vinicius Rangel
+- Felipe Augusto
+- Matheus Moreira
+- Pedro Henrique Chiarelli
+- Igor Lloyd
 
 ## Orientador
 
-* Will Ricardo Dos Santos Machado
+- Will Ricardo Dos Santos Machado
 
 ## Instruções de utilização
 
@@ -41,6 +41,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
 <li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
+<li><a href="docs/14-Planejar testes de usabilidade de software na aplicação.md"> Planejar testes de usabilidade de software na aplicação</a></li>
 </ol>
 
 # Código
