@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CR9wQfLVJIWJBgMLcQ3hJfAjwhLmbR4dVH8vjo2qPKcj/Qo8f/m/EgpsS0eOQ0ICFFV7eCXQ0fT6ILyENpFKew==",
+  "dgSpecHash": "jQuycFnUrpLSfuDQsN9g2vnY5YpFtuts/Nmxusfi11yBGcTEcAoZlnHSnabSBr7F5zeM22OAldmMHyFU9UyOQQ==",
   "success": true,
-  "projectFilePath": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\src\\marcielen-crud\\back-end-crud\\back-end-crud.csproj",
+  "projectFilePath": "C:\\EstudosProgramação\\puc\\back\\pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash\\src\\marcielen-Cadastro-cliente\\back-end-crud\\back-end-crud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcielen Barbosa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Marcielen Barbosa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
