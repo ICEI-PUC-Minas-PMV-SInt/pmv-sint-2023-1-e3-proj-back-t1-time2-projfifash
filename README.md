@@ -44,6 +44,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/14-Planejar testes de usabilidade de software na aplicação.md"> Planejar testes de usabilidade de software na aplicação</a></li>
 <li><a href="docs/15-Identificar os perfis de usuários, investigar suas necessidades e elaborar personas.md">Identificar os perfis de usuários, investigar suas necessidades e elaborar personas</a></li>
 <li><a href="docs/16-Produzir história de usuário.md"> Produzir história de usuário para especificação do projeto</a></li>
+<li><a href="docs/17-Planejar testes de software de funcionalidade do back-end.md"> Planejar testes de software de funcionalidade do back-end</a></li>
 </ol>
 </ol>
 # Código
