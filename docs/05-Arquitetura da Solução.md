@@ -60,7 +60,7 @@ nome
 marca
 tamanho
 cor
-preco
+preço
 
 Tabela "Compras":
 
