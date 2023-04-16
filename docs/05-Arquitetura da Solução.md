@@ -60,6 +60,41 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
+#### IDE's:
+<ul>
+ <li>  Visual Studio Code;</li>
+ <li>  Microsoft Visual Studio;</li>
+</ul>
+
+#### Linguagens:
+<ul>
+ <li>  HTML5;</li>
+ <li>  CSS3;</li>
+ <li>  JavaScript;</li>
+ <li>  SQL;</li>
+ <li>  C Sharp;</li>
+</ul>
+
+#### Ferramentas:
+<ul>
+ <li>  MySQL;</li>
+ <li>  Lucidchart;</li>
+ <li>  BR Modelo Web;</li>
+ <li>  Git;</li>
+ <li>  Github;</li>
+ <li>  GitHub Pages;</li>
+</ul>
+
+#### Frameworks:
+<ul>
+ <li>  ASP.NET Core MVC;</li>
+</ul>
+
+#### Bibliotecas:
+<ul>
+ <li>  React;</li>
+</ul>
+
 ## Hospedagem
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
