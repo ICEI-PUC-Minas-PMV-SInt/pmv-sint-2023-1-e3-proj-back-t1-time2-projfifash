@@ -65,7 +65,7 @@ preco
 Tabela "Compras":
 
 id_compra (chave primária)
-id_cliente (chave estrangeira referenciando a tabela "Comprador")
+id_cliente (chave estrangeira referenciando a tabela "Cliente")
 id_site (chave estrangeira referenciando a tabela "Site")
 id_roupa (chave estrangeira referenciando a tabela "Roupas")
 data_compra 
