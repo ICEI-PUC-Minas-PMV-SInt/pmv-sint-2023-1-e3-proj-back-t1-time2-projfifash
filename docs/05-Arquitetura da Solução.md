@@ -23,22 +23,161 @@ A camada de testes inclui os testes unitários, de integração e de aceitação
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
++-------------+                 +--------------+                  +-----------+
+|   Produto   | 1           *   |   Categoria  |                * | Fornecedor|
++-------------+                 +--------------+                  +-----------+
+| - id: int   |                 | - id: int    |                  | - id: int |
+| - nome: str |                 | - nome: str  |                  | - nome: str |
+| - descricao: str|             |              |                  | - endereco: str|
+| - preco: float|               |              |                  | - produtos: List[Produto]|
+| - tamanho: str|               +--------------+                  +-----------+
+| - cor: str   |
+| - imagem: str|
++-------------+
+       |
+       |
+       |
++-------------+
+|   Carrinho  |
++-------------+
+| - id: int   |
+| - usuario: Usuario |
+| - produtos: List[Produto] |
+| - quantidades: List[int] |
+| - preco_total: float |
++-------------+
+       |
+       |
+       |
++-------------+               +-------------+
+|   Usuario   | 1         *   |   Pedido    |
++-------------+               +-------------+
+| - id: int   |               | - id: int   |
+| - nome: str |               | - usuario: Usuario |
+| - endereco: str |           | - produtos: List[Produto] |
+| - email: str |              | - quantidades: List[int] |
+| - senha: str |              | - preco_total: float |
+| - carrinho: Carrinho |      | - endereco: str |
+| - historico: List[Pedido] | | - status: str |
++-------------+               +-------------+
+       |
+       |
+       |
++-------------+
+|  Avaliacao  |
++-------------+
+| - id: int   |
+| - usuario: Usuario |
+| - produto: Produto |
+| - pontuacao: int |
+| - comentario: str |
++-------------+
+
+
+Classe Produto: representa um produto vendido pela loja FIFASH, contendo informações como nome, descrição, preço, tamanho, cor e imagem.
+Classe Carrinho: representa um carrinho de compras para um usuário, que contém uma lista de produtos selecionados pelo usuário, quantidade de cada produto e o preço total.
+Classe Usuário: representa um usuário do sistema FIFASH, que pode fazer login e comprar produtos. Contém informações como nome, endereço, histórico de pedidos e carrinho de compras.
+Classe Pedido: representa um pedido feito por um usuário, contendo informações como a lista de produtos comprados, quantidade de cada produto, preço total, endereço de entrega e status do pedido.
+Classe Categoria: representa uma categoria de produtos, como roupas masculinas, roupas femininas, sapatos, etc.
+Classe Avaliação: representa uma avaliação feita por um usuário sobre um produto que ele comprou, contendo informações como o produto avaliado, o usuário que fez a avaliação, a pontuação e o comentário.
+Classe Fornecedor: representa um fornecedor de produtos para a loja FIFASH, contendo informações como nome, endereço e lista de produtos fornecidos.
+Essas classes podem ter relacionamentos entre si, como:
+
+Produto tem um relacionamento com Categoria, indicando a categoria do produto.
+Produto tem um relacionamento com Fornecedor, indicando o fornecedor do produto.
+Carrinho tem um relacionamento com Usuário, indicando o usuário que possui o carrinho.
+Pedido tem um relacionamento com Usuário, indicando o usuário que fez o pedido.
+Pedido tem um relacionamento com Produto, indicando os produtos comprados no pedido.
+Avaliação tem um relacionamento com Usuário, indicando o usuário que fez a avaliação.
+Avaliação tem um relacionamento com Produto, indicando o produto avaliado.
+Esse diagrama de classes pode ser expandido ou modificado de acordo com as necessidades do sistema FIFASH.
+
+
+<!-- O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
 
 > - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml) -->
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+       +--------------+
+       |   Categoria  |
+       +--------------+
+       | - id         |
+       | - nome       |
+       +--------------+
+             1      *
+             |      
+       +--------------+
+       |   Produto    |
+       +--------------+
+       | - id         |
+       | - nome       |
+       | - descricao  |
+       | - preco      |
+       | - tamanho    |
+       | - cor        |
+       | - imagem     |
+       +--------------+
+             1      *
+             |      
+       +--------------+
+       |  Fornecedor  |
+       +--------------+
+       | - id         |
+       | - nome       |
+       | - endereco   |
+       +--------------+
+             1      *
+             |
+       +--------------+
+       |   Carrinho   |
+       +--------------+
+       | - id         |
+       | - preco_total|
+       +--------------+
+             1      *
+             |
+       +--------------+
+       |   Usuario    |
+       +--------------+
+       | - id         |
+       | - nome       |
+       | - endereco   |
+       | - email      |
+       | - senha      |
+       +--------------+
+             1      *
+             |
+       +--------------+
+       |   Pedido     |
+       +--------------+
+       | - id         |
+       | - preco_total|
+       | - endereco   |
+       | - status     |
+       +--------------+
+             1      *
+             |
+       +--------------+
+       |  Avaliacao   |
+       +--------------+
+       | - id         |
+       | - pontuacao  |
+       | - comentario |
+       +--------------+
+
+
+
+<!-- O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
 > - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
-
-## Esquema Relacional
+-->
+## Esquema Relacional 
 
 Tabela "Cliente":
 
