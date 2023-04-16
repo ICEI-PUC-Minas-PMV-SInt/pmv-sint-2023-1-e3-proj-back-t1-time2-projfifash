@@ -56,10 +56,6 @@ Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dad
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
 #### IDE's:
 <ul>
  <li>  Visual Studio Code;</li>
@@ -97,11 +93,19 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+#### Ferramenta utilizada:
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+<ul>
+ <li>Github Pages</li>
+</ul>
+
+#### Lançamento:
+
+<ol>
+ <li>Criação do repositório</li>
+ <li>Clonar o repositório</li>
+ <li>Adicionar um arquivo Index na pasta do projeto</li>
+ <li>Add, commit, e push nas mudanças</li>
+ <li>Acessar no endereço https://username.github.io</li>
+</ol>
+
