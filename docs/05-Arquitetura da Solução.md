@@ -40,11 +40,42 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 
 ## Esquema Relacional
 
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
+Tabela "Cliente":
 
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
+id_cliente (chave primária)
+nome
+email
+telefone
+
+Tabela "Site":
+
+id_site (chave primária)
+nome
+url
+
+Tabela "Roupas":
+
+id_roupa (chave primária)
+nome
+marca
+tamanho
+cor
+preco
+
+Tabela "Compras":
+
+id_compra (chave primária)
+id_cliente (chave estrangeira referenciando a tabela "Comprador")
+id_site (chave estrangeira referenciando a tabela "Site")
+id_roupa (chave estrangeira referenciando a tabela "Roupas")
+data_compra 
+As restrições de integridade ficam definidas da seguinte maneira:
+
+Cada tabela possui uma chave primária única (id_cliente, id_site, id_roupa, id_compra).
+Na tabela "Compras", as chaves estrangeiras (id_cliente, id_site, id_roupa) referenciam as chaves primárias das tabelas "Cliente", "Site" e "Roupas", respectivamente.
+As chaves primárias e as chaves estrangeiras não podem ter valores nulos (NOT NULL).
+
+Esse esquema relacional pode ser adaptado para atender a outros requisitos ou casos de uso específicos.
 
 ## Modelo Físico (DDL)
 
