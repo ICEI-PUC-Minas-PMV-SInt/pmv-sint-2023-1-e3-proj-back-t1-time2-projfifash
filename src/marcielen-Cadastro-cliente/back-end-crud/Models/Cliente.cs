@@ -19,10 +19,6 @@ namespace back_end_crud.Models
         [DisplayName("Sobrenome")]
         public string EmpCode { get; set; }
 
-        [Column(TypeName = "varchar(11)")]
-        [DisplayName("CPF")]
-        public string Position { get; set; }
-
         [Column(TypeName = "varchar(100)")]
         [DisplayName("Email")]
         public string OfficeLocation { get; set; }
