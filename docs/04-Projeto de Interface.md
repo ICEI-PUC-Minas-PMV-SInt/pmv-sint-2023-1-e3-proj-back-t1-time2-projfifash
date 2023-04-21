@@ -8,7 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
  -->
 
-<img src="../docs/img/Landing%20page%20Fashion%20Ecommerce%20(Community).png" width= "100%">
+<!-- <img src="../docs/img/Landing%20page%20Fashion%20Ecommerce%20(Community).png" width= "100%"> -->
 
 ## Diagrama de Fluxo
 
@@ -25,15 +25,22 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+<img src="../docs/img/Ecommerce.png" width= "100%">
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+<img src="../docs/img/Shop%20Page.png" width= "100%">
+
+<img src="../docs/img/Shop%20Page.png" width= "100%">
+
+<img src="../docs/img/Product%202.png" width= "100%">
+
+<img src="../docs/img/Cart%202.png" width= "100%">
+
+<img src="../docs/img/Checkout%20-%20Address.png" width= "100%">
+
+<img src="../docs/img/Checkout%20-%20Shipping.png" width= "100%">
+
+<img src="../docs/img/Checkout%20-%20Payment%20-%20Credit%20Card.png" width= "100%">
+
+<img src="../docs/img/My%20Orders.png" width= "100%">
+
+<img src="../docs/img/Favorites.png" width= "100%">
