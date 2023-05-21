@@ -52,6 +52,9 @@ aqui fiz a tela que o cliente irá interagir quando for fazer o cadastro:![Scree
 e aqui está quando o cliente preencher os campos do cadastro: 
 ![Screenshot_69](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash/assets/90483031/6ece0bdc-7f7f-46cc-baa1-3ad24c5112b6)
 
+utilizarei ASP.NET para o desenvolvimento desta funcionalidade pois possui uma variedade de recursos e componentes integrados que facilitam a criação de formulários e o processamento de dados de cadastro.
+Também utilizarei SQL Server pois é um sistema de gerenciamento de banco de dados relacional e é altamente compatível com a plataforma .NET e possui recursos avançados de segurança e escalabilidade.
+
 
 
 
