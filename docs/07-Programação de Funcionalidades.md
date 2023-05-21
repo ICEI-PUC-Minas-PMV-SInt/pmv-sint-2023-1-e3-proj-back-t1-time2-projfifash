@@ -45,7 +45,12 @@ Cadastro Alterado:
 ![image](https://user-images.githubusercontent.com/80776887/233698313-42987a73-3b06-43d1-add1-51105a7e707a.png)
 
 
+Inicialização da tela de cadastro feito por Pedro Henrique Chiarelli de Sousa:
 
+aqui fiz a tela que o cliente irá interagir quando for fazer o cadastro:![Screenshot_68](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash/assets/90483031/e3787af2-8203-4254-89f7-364d65d8e66c)
+
+e aqui está quando o cliente preencher os campos do cadastro: 
+![Screenshot_69](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash/assets/90483031/6ece0bdc-7f7f-46cc-baa1-3ad24c5112b6)
 
 
 
