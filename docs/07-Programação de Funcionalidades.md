@@ -55,6 +55,21 @@ e aqui está quando o cliente preencher os campos do cadastro:
 utilizarei ASP.NET para o desenvolvimento desta funcionalidade pois possui uma variedade de recursos e componentes integrados que facilitam a criação de formulários e o processamento de dados de cadastro.
 Também utilizarei SQL Server pois é um sistema de gerenciamento de banco de dados relacional e é altamente compatível com a plataforma .NET e possui recursos avançados de segurança e escalabilidade.
 
+# Matheus Gonçalves 
+1 - Criação do protótipo da tela do carrinho de compras do site
 
+2 - Na tela do carrinho de compras o cliente após entrar com suas credênciais consiguirá visualiar os items que ele adicionou. Mostrando quais produtos ele adicionou, quantidade, valor e total da compra. O usuários também será capaz de editar os items do carrinho.
+
+- ![tela carrinho de compras - 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash/assets/75402234/e3763254-5319-4838-9b09-5b003fa66b2d)
+
+3 - A parte de criação do código ainda está sendo processada. Por enquanto realizei pesquisas em videos e em algumas plataformas para saber qual a melhor maneira de realizar a criação do banco de dados junto as demais telas do site. Utilizei de ferramentas como o youtube e Inteligências artificiais para observar exemplos praticos e como executar a tarefa de um carrinho de compras funcional.
+
+4 - Os códigos ainda estão em fases de testes, ou seja, não estão funcionais, sendo ainda protótipos quase teóricos
+
+Exemplos de códigos que poderão ser futuramente implementados no back-end das telas:
+
+![prototipo carrinho de compras - 1](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash/assets/75402234/683d9212-7be6-4e27-8537-11d8fd82dc98)
+
+![prototipo carrinho de compras - 2](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e3-proj-back-t1-time2-projfifash/assets/75402234/9a372ee5-3a28-4942-8da1-ba8833e490db)
 
 
