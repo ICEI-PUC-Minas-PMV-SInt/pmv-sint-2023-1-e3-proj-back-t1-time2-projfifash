@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\marcielen-Cadastro-cliente",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\obj",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\Properties",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\Views",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\Views\\Departamentos",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\Views\\Home",
+    "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\wwwroot"
+  ],
+  "SelectedNode": "\\src\\marcielen-Cadastro-cliente\\back-end-crud\\Views\\Departamentos\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
